@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FEASTA</string>
+    <string name="app_intro">Welcome TO FEASTA. The one stop shop for all  you starving Johnnnies lookng to find events
+    with free food.</string>
+    <string name="LABEL">Feasta</string>
+    <string name="Register_SignUp">Register</string>
+    <string name="findfree">Find Free Food</string>
+    <string name="email">St. John\'s Email:</string>
+    <string name="password">Password:</string>
+    <string name="SignUP">"Sign Up</string>
+    <string name="signupIntro">You\'re one step closer to free food</string>
+    <string name="favfood">Favorite Food</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+
+
+</resources>
